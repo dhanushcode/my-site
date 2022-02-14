@@ -1,0 +1,179 @@
+
+body{
+  margin: 0px;
+  text-align: center;
+  font-family:'Roboto',serif;
+  color: #40514E;
+  font-size: 20px;
+
+}
+h1{
+  width: 20%;
+  margin: 0 auto 0 auto;
+  font-family: 'Mochiy',cursive;
+  color: #084177;
+  font-size: 5.625rem;
+  line-height: 2;
+}
+h2{
+  color: #084177;
+  font-size: 2.5rem;
+  font-family: 'Montserrat',sans-serif;
+  font-weight: normal;
+  padding: bottom 10px;
+}
+h3{
+  font-family:'Roboto',sans-serif;
+}
+hr{
+  border: dotted grey 6px;
+  border-bottom: none;
+  width: 5%;
+  margin-top: 100px;
+  margin-bottom: 100px
+}
+p{
+  line-height: 2;
+}
+.top-container{
+  background-color: #9AD0EC;
+
+}
+a{
+  color: #11999E;
+}
+
+.bottom-container{
+  background-color: #CAF0F8;
+  font-size: 20px;
+
+
+}
+.mountain{
+  height: 800px;
+  width: 800px;
+
+}
+.pro{
+  text-decoration: underline;
+}
+.cloud2{
+  position: absolute;
+  margin-top: 200px;
+  margin-left:350px;
+}
+.cloud3{
+  position: absolute;
+  left: 200px;
+  top: 250px;
+
+}
+.sun-cloud{
+  position: absolute;
+  margin-right: 0px;
+  right: 500px;
+  top: 0px;
+  left: 950px;
+
+}
+.skype-cloud{
+  position: absolute;
+  left: 400px;
+
+}
+.dhanush-img{
+  height: 230px;
+  width:230px;
+  margin-top: 100px;
+}
+.skills-img{
+  height: 300px;
+  width: 300px;
+}
+.Python{
+  height: 200px;
+  width: 200px;
+}
+.html{
+  height: 220px;
+  width: 220px;
+}
+.css{
+  height:220px;
+  width: 220px;
+}
+.js{
+  height: 200px;
+  width: 200px;
+}
+.java{
+  height: 300px;
+  width: 300px;
+}
+.copyright{
+  height: 15px;
+  width: 15px;
+}
+.intro{;
+  width: 20%;
+  margin: auto;
+}
+.skill-p{
+  width: 20%;
+  margin: auto;
+}
+.python-p{
+  width: 20%;
+  margin: auto;
+}
+.html-p{
+  width: 20%;
+  margin: auto;
+}
+.css-p{
+  width: 20%;
+  margin: auto;
+}
+.js-p{
+  width: 20%;
+  margin: auto;
+}
+.java-p{
+  width: 20%;
+  margin: auto;
+}
+.contact-p{
+  width: 40%;
+  margin: 40px auto 60px auto;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: 'Montserrat';
+  color: #ffffff;
+  font-size: 31px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #3cfcc6;
+  background-image: -webkit-linear-gradient(top, #3cfcc6, #3498db);
+  background-image: -moz-linear-gradient(top, #3cfcc6, #3498db);
+  background-image: -ms-linear-gradient(top, #3cfcc6, #3498db);
+  background-image: -o-linear-gradient(top, #3cfcc6, #3498db);
+  background-image: linear-gradient(to bottom, #3cfcc6, #3498db);
+  text-decoration: none;
+}
+.bottom2-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
